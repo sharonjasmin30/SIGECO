@@ -20,6 +20,13 @@
                 ?>
               <!-- Fin Main Content -->
 
+
+              <div class="card-body">
+              <p>Hola</p>
+              </div>
+
+
+
               <!-- Inicio Footer -->
                 <?php
                   require('footer.php');

@@ -8,7 +8,7 @@
 
           <!-- Inicio Sidebar -->
             <?php
-              require('sidebar.php');
+              require('sidebardirector.php');
             ?>
           <!-- Fin de Sidebar -->
 
@@ -30,6 +30,7 @@
           
       </div>
   <!-- End of Page Wrapper -->
+
 
 <!-- Inicio Css Javascript -->
 <?php

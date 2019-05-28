@@ -1,5 +1,5 @@
 <?php
-  require('head.php');
+  require('cuerpo/head.php');
 ?>
 
 <body class="bg-gradient-primary">
@@ -45,6 +45,6 @@
 
 <!-- Inicio Css Javascript -->
 <?php
-  require('librerias.php');
+  require('cuerpo/librerias.php');
 ?>
 <!-- Fin  Css Javascript -->
