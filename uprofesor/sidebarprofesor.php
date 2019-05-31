@@ -24,9 +24,9 @@
 
        <!-- Nuevo Item -->
         <li class="nav-item">
-          <a class="nav-link" href="registrocalificaciones.php">
+          <a class="nav-link" href="configuracioncursos.php">
             <i class="fas fa-fw fa-chart-area"></i>
-            <span>Registro de Calificaciones</span>
+            <span>Configuración de Cursos</span>
           </a>
         </li>
         <!--Fin  Nuevo Item -->
@@ -34,16 +34,16 @@
 
         <!-- Nuevo Item -->
         <li class="nav-item">
-          <a class="nav-link" href="reportes.php">
+          <a class="nav-link" href="registroauxiliar.php">
             <i class="fas fa-fw fa-chart-area"></i>
-            <span>Registro de otros cursos</span>
+            <span>Registro Auxiliar</span>
           </a>
         </li>
         <!--Fin  Nuevo Item -->
 
         <!-- Nuevo Item -->
         <li class="nav-item">
-          <a class="nav-link" href="reportes.php">
+          <a class="nav-link" href="generarReporte.php">
             <i class="fas fa-fw fa-chart-area"></i>
             <span>Generar Reporte</span>
           </a>
@@ -52,7 +52,7 @@
 
         <!-- Nuevo Item -->
         <li class="nav-item">
-          <a class="nav-link" href="reportes.php">
+          <a class="nav-link" href="imprimirReporte.php">
             <i class="fas fa-fw fa-chart-area"></i>
             <span>Imprimir reportes</span>
           </a>
