@@ -59,7 +59,74 @@
                                 <input type="password" class="form-control" id="inputPassword4" placeholder="Pedro Garcia Cardenas" readonly>
                             </div>
                         </div>
-                        <hr class="style1">
+                        
+                        <div class="x_content table-responsive">
+                          <table id="table_mp" class="table-bordered table stacktable">
+                            <thead>
+                              <tr>
+                                <th class="text-center" rowspan=2>#</th>
+                                <th class="text-center" rowspan=2>Nombres y Apellidos</th>
+                                <th class="text-center" colspan=6>Competencia 1</th>
+                                <th class="text-center" colspan=6>Competencia 2</th>
+                                <th class="text-center" rowspan="2" >Nota Final</th>
+                              </tr>
+                              <tr>
+                                
+                                <th>D1</th>
+                                <th>D2</th>
+                                <th>D3</th>
+                                <th>D4</th>
+                                <th>D5</th>
+                                <th>Prom</th>
+                                <th>D1</th>
+                                <th>D2</th>
+                                <th>D3</th>
+                                <th>D4</th>
+                                <th>D5</th>
+                                <th>Prom</th>
+                                
+
+                              </tr>
+                            </thead>
+                            <tbody>
+                              <tr>
+                                <td>1</td>
+                                <td>Maria</td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                              </tr>
+                              <tr>
+                                <td>2</td>
+                                <td>Carlos</td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                <td><input type="text" size="5" name="nombressele" id="nombressele" class="form-control"></td>
+                                
+                              </tr>
+                            </tbody>
+                          </table>
+                        </div>
                         <button type="submit" class="btn btn-primary">Guardar</button>
                         <br>
                         <br>
